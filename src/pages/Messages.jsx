@@ -20,10 +20,15 @@ export default function Messages({user, db}) {
 
   async function ujUzenet() {
     await addDoc(collection(db, "messages"), { ki:user.email, kinek:kinek, uzenet:uzenet, mikor:Timestamp.now().toDate() });
+    setKinek(""); setUzenet("");
+  }
+
+  function enter(e) {
+    if (e.key === 'Enter') ujUzenet();
   }
 
   return (
-    <div className='messages'>
+    <div className='messages' onKeyDown={e => enter(e)}>
       {user ? <><div className='uzenet'>
         <TextField
           required
