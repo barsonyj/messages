@@ -47,7 +47,7 @@ export default function App() {
       { path: "/login", element: <Login auth={auth} /> },
       { path: "*", element: <Notfound /> }
     ]}
-  ], { basename: '/messages/' });
+  ], { basename: '/messages' });
 
   return (
     <div className='app'>
