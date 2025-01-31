@@ -11,6 +11,12 @@ Az elkészült alkalmazás elérhető:
 
 Valami _szöveg_ az első alcímhez
 
+```
+git add .
+git commit -m "Alma"
+git push
+```
+
 ## Alcím2
 
 Valami szöveg2
