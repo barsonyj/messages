@@ -4,4 +4,5 @@ Egy üzenetküldő webalkalmazás, amely **Firebase** alapokon **username+passwo
 
 Az elkészült alkalmazás elérhető:
 
-- Github: [https://barsonyj.github.io/messages/](https://barsonyj.github.io/messages/) [repo](https://github.com/barsony/messages/)
+- Github: [https://barsonyj.github.io/messages/](https://barsonyj.github.io/messages/)
+- Netlify:
