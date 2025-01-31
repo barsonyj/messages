@@ -6,3 +6,11 @@ Az elkészült alkalmazás elérhető:
 
 - Github: [https://barsonyj.github.io/messages/](https://barsonyj.github.io/messages/)
 - Netlify:
+
+## Alcím1
+
+Valami szöveg1
+
+## Alcím2
+
+Valami szöveg2
