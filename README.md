@@ -1,6 +1,6 @@
-# React + Vite
+# Messages
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Egy üzenetküldő webalkalmazás, amely **Firebase** alapokon **username+password** alapon hitelesíti a felhasználókat, az üzeneteket pedig dokumetumokba gyűjti.
 
 Currently, two official plugins are available:
 
